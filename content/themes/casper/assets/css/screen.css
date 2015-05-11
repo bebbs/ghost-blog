@@ -231,6 +231,7 @@ h4 {
 }
 
 h5 {
+    margin-top: 0.5em;
     font-size: 2rem;
 }
 
@@ -1666,6 +1667,7 @@ body:not(.post-template) .post-title {
 
     h5 {
         font-size: 2.2rem;
+        font-family: ;
     }
 
     h6 {
